@@ -39,7 +39,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="abxo9.gif" alt="Coding" width="90%"/>
+      <img src="gif.gif" alt="Coding" width="90%"/>
     </td>
   </tr>
 </table>
@@ -86,6 +86,24 @@
 <h2 align="center">🔥 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yonasamber&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yonasamber&layout=compact&theme=radical" width="48%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=yonasamber&show_icons=true&theme=radical"
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=yonasamber&layout=compact&theme=radical"
+    width="48%"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yonasamber&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+    width="60%"
+  />
+</div>
+
 </div>
