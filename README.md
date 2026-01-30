@@ -3,8 +3,7 @@
     src="https://raw.githubusercontent.com/yonasamber/yonasamber/main/github-header-banner%20(1).png"
     width="100%"
     alt="Yonas Sileshi | Fullstack Developer"
-    
-  />
+    />
 
   
 <h1>Hi 👋, I’m Yonas Sileshi</h1>
